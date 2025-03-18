@@ -1,5 +1,4 @@
 website_monitor/
-│── 	                         # Application code
 │   ├── flask_monitor.py         # Flask web interface
 │   ├── improve_monitor.py       # Runs monitoring on demand
 │   ├── monitor_scheduler.py     # Runs periodic monitoring
@@ -8,7 +7,7 @@ website_monitor/
 │   ├── add_website.html         # Add website form
 │   ├── metrics.html             # Metrics graphs
 │── requirements.txt             # Required Python packages
-│── README.txt                    # Instructions for users
+│── README.txt                   # Instructions for users
 
 
 
